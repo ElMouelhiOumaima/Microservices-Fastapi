@@ -1,3 +1,4 @@
 # micro-fastapi
-Microservices app using Python FastAPI . 
-RedisJSON  is a NoSQL database  and to dispatch events with i used Redis Streams which is Event Bus. 
+This is a Microservices app using Python FastAPI . 
+I used RedisJSON  as a NoSQL database  and to dispatch events i used Redis Streams which is Event Bus. 
+
